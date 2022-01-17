@@ -11,7 +11,7 @@
 
 <p>
   <span><img src="src/imagens/img_1.png" /></span>
-  <span><img src="src/imagens/img_2.PNG" /></span>
+  <span><img src="src/imagens/img_2.png" /></span>
 </p>
 
 <h2 id="autora">👤 Autor</h2>
